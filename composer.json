@@ -1,0 +1,27 @@
+{
+    "name": "antweb/yii2-bootstrap4-extended",
+    "description": "Css library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Hui Yang",
+            "email": "chy1988@antwebstudio.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+	},
+    "require-dev": {
+	},
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+	],
+    "autoload": {
+        "psr-4": {
+            "ant\\bootstrap4Extended\\": "src"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+$primary:#04bfbc;
+$secondary:#6f7f8c;
+$success:#3e4d59;
+$danger:#cc330d;
+$info:#5c8f94;
+$warning:#6e9fa5;
+$light:#ffffff;
+$dark:#1e2b37;
+$spacer:1rem;
+$border-width:1px;
+$btn-border-radius:0;
+$enable-gradients:false;
+$enable-responsive-font-sizes:true;
+$border-radius:0;
+$border-radius-lg:0;
+$border-radius-sm:0;
+/*$enable-grid-classes:false;*/
+
+/** Non-bootstrap variables **/
+$bg-primary: #efefef;
+$light-text: #ffffff;
+$dark-text: #000000;
+$bg-primary-text: $light-text;
+
+@import "bootstrap";
